@@ -6,6 +6,6 @@ package com.yb.test;
  */
 public class GitTest {
     public static void main(String[] args) {
-        6666
+       System.out.println("6666");
     }
 }
